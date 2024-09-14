@@ -1,4 +1,4 @@
-Certainly. Let's completely remove the existing Anaconda installation from your Linux Mint system and start fresh. Here are the steps to properly uninstall Anaconda:
+A problem I encountered and solved. So Let's completely remove the existing Anaconda installation from your Linux Mint system and start fresh. Here are the steps to properly uninstall Anaconda:
 
 1. First, remove the Anaconda directory:
 
